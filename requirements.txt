@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+prophet
+statsmodels
+dask
+tensorflow-cpu
+scikit-learn
